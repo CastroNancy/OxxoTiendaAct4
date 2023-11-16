@@ -26,3 +26,7 @@ Eliminar venta
 agregar venta
 <img width="892" alt="image" src="https://github.com/CastroNancy/OxxoTiendaAct4/assets/143777514/2d6861d1-90b9-47dc-a8c7-9521897c837e">
 <img width="872" alt="image" src="https://github.com/CastroNancy/OxxoTiendaAct4/assets/143777514/38982e65-dc00-4553-9b9d-8341b27ef082">
+Bases de datos
+<img width="956" alt="image" src="https://github.com/CastroNancy/OxxoTiendaAct4/assets/143777514/bcb8a961-127b-451e-8024-2c375f7f97e5">
+<img width="884" alt="image" src="https://github.com/CastroNancy/OxxoTiendaAct4/assets/143777514/7c02e937-7582-42d1-9d4d-0ad600394c10">
+<img width="743" alt="image" src="https://github.com/CastroNancy/OxxoTiendaAct4/assets/143777514/1b9438f4-d1f3-4dc4-85c5-352d34d50386">
